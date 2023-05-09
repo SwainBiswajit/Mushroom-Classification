@@ -1,1 +1,0 @@
-# neurolab-mongodb-python
